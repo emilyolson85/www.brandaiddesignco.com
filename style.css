@@ -142,3 +142,9 @@ body {
 	margin-top: 2.5em;
 	font-weight: 200;
 }
+
+.quote a:hover {
+	background: white;
+	border: 1px solid #ee352a;
+	color: #ee352a;
+}
