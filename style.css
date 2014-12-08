@@ -79,5 +79,66 @@ body {
 	margin-right: auto;
 }
 
-.subheader
+.subheader {
+	background: #fbfae6;
+}
 
+.subheader h2 {
+	color: #ee352a;
+	font-weight: 200;
+}
+
+.discover {
+	background-image: url(images/icon-direct.svg) no-repeat;
+	overflow: auto;
+}
+
+.discover h2{
+	text-align: center;
+	
+}
+
+.quote p {
+	color: #666;
+	text-align: center;
+	font-size: 2.5em;
+	font-weight: 200;
+	margin: 2em 3em;
+}
+
+.quote img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -20px;
+}
+
+.quote h2 {
+	color: #ee352a;
+	font-weight: 200;
+	font-size: 2em;
+	text-align: center;
+}
+
+.quote h3 {
+	margin-top: -20px;
+	text-align: center;
+	font-weight: 200;
+	font-size: 1em;
+	color: #666;
+}
+
+.quote a {
+	font-size: 1em;
+	color: #fcf8c3;
+	background: #ee352a;
+	max-width: 150px;
+	text-decoration: none;
+	padding: 20px 25px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 2.5em;
+	font-weight: 200;
+}
